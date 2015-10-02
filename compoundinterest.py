@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 """
 Compound Interest Calculator
 """
